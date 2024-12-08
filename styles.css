@@ -1,0 +1,47 @@
+body {
+    /* background-color: rgb(189, 228, 246); */
+    padding: 20px;
+    font-family: 'Times New Roman', Times, serif;   
+}
+
+header {
+    background: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    color: rgb(44, 159, 236);
+    text-align: center;
+
+}
+
+h2 {
+    color: rgb(238, 231, 26);
+    text-align: center;
+
+}
+
+ol {
+    color: turquoise;
+    text-align: center;
+}
+
+ul {
+    color: rgb(219, 93, 68);
+    text-align: center;
+}
+
+p {
+    color: rgb(235, 12, 183);
+    text-align: center;
+    font-size: large;
+}
+
+img {
+    text-align: center;
+    width: 400px;
+    height: 400px;
+    transition: transform 0.5s ease;
+}
